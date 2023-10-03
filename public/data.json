@@ -1,0 +1,134 @@
+[
+  {
+      "category": "Health",
+      "title": "Wellness Support Kit",
+      "img": "https://i.ibb.co/nzsRCnb/Health-min.png",
+      "categoryBg": "#AEC8FF",
+      "cardBg": "#D9E5FF",
+      "color": "#0052FF",
+      "description": "Empower individuals to prioritize their health with this advanced smartwatch. With features like heart rate monitoring, activity tracking, and sleep analysis, it's a holistic wellness companion. Help make a difference. Donate this wellness support kit today.",
+      "price": 249,
+      "id": 1
+  },
+  {
+      "category": "Education",
+      "title": "Lifelong Learning Laptop",
+      "img": "https://i.ibb.co/4JKNzzF/Education-min.png",
+      "categoryBg": "#FFC3C5",
+      "cardBg": "#FFE3E4",
+      "color": "#FF444A",
+      "description": "Empower students and lifelong learners with this high-performance laptop. Its powerful processor and ample storage support research, assignments, and online learning. Give the gift of knowledge and academic growth. Consider donating this educational tool to make a meaningful impact on someone's future.",
+      "price": 349,
+      "id": 2
+  },
+  {
+      "category": "Clothing",
+      "title": "Warmth for Humanity Jacket",
+      "img": "https://i.ibb.co/2STGp6T/Clothing-min.png",
+      "categoryBg": "#D4ECC1",
+      "cardBg": "#EBF6E2",
+      "color": "#79C23F",
+      "description": "Provide warmth and style to those in need with this men's winter jacket. Its durable materials and stylish design ensure comfort in colder months. Be part of a heartwarming gesture. Donate this jacket and share the warmth of humanity.",
+      "price": 199,
+      "id": 3
+  },
+  {
+      "category": "Food",
+      "title": "Culinary Exploration",
+      "img": "https://i.ibb.co/7jyBCJ0/Food-min.png",
+      "categoryBg": "#FDD2C4",
+      "cardBg": "#FEEAE3",
+      "color": "#F87147",
+      "description": "Embark on a culinary journey and support others in their quest to explore gourmet cooking. With top chefs as guides, this class offers a chance to enhance culinary skills. Be generous. Donate this culinary experience and ignite a passion for gastronomy. Give the gift of flavor and discovery.",
+      "price": 449,
+      "id": 4
+  },
+  {
+      "category": "Health",
+      "title": "Home Fitness Starter Pack",
+      "img": "https://i.ibb.co/nzsRCnb/Health-min.png",
+      "categoryBg": "#AEC8FF",
+      "cardBg": "#D9E5FF",
+      "color": "#0052FF",
+      "description": "Support others in building their home gym and achieving fitness goals with this comprehensive equipment set. From cardio to strength training, it provides a complete workout experience. Extend a helping hand. Donate this fitness starter pack and promote well-being in your community.",
+      "price": 279,
+      "id": 5
+  },
+  {
+      "category": "Education",
+      "title": "Digital Artistry Toolkit",
+      "img": "https://i.ibb.co/4JKNzzF/Education-min.png",
+      "categoryBg": "#FFC3C5",
+      "cardBg": "#FFE3E4",
+      "color": "#FF444A",
+      "description": "Empower aspiring digital artists and illustrators with this digital drawing tablet. It's a canvas for imagination, with a pressure-sensitive stylus and responsive touch. Inspire creativity. Donate this digital artistry toolkit and enable the artistic expression of future talents.",
+      "price": 279,
+      "id": 6
+  },
+  {
+      "category": "Clothing",
+      "title": "Fashionable Attire for Women",
+      "img": "https://i.ibb.co/2STGp6T/Clothing-min.png",
+      "categoryBg": "#D4ECC1",
+      "cardBg": "#EBF6E2",
+      "color": "#79C23F",
+      "description": "Help elevate someone's style and confidence with this elegant designer dress for women. It's a statement of grace and sophistication, perfect for special occasions. Be a source of empowerment. Donate this fashionable attire and inspire confidence and self-expression.",
+      "price": 349,
+      "id": 7
+  },
+  {
+      "category": "Food",
+      "title": "Global Flavors Experience",
+      "img": "https://i.ibb.co/7jyBCJ0/Food-min.png",
+      "categoryBg": "#FDD2C4",
+      "cardBg": "#FEEAE3",
+      "color": "#F87147",
+      "description": "Indulge in a flavorful journey and support others in savoring the rich world of gourmet cheese. From creamy Brie to aged cheddar, it's a cheese lover's dream. Share the joy. Donate this global flavors experience and treat someone's taste buds to the delights of the world.",
+      "price": 299,
+      "id": 8
+  },
+  {
+      "category": "Health",
+      "title": "Relaxation Sanctuary Chair",
+      "img": "https://i.ibb.co/nzsRCnb/Health-min.png",
+      "categoryBg": "#AEC8FF",
+      "cardBg": "#D9E5FF",
+      "color": "#0052FF",
+      "description": "Help others find serenity and relaxation with this luxurious massage chair. Its various massage modes and heated seats provide a spa-like experience at home. Be a source of tranquility. Donate this relaxation sanctuary chair and promote well-being and relaxation.",
+      "price": 479,
+      "id": 9
+  },
+  {
+      "category": "Education",
+      "title": "Creative Expression Set",
+      "img": "https://i.ibb.co/4JKNzzF/Education-min.png",
+      "categoryBg": "#FFC3C5",
+      "cardBg": "#FFE3E4",
+      "color": "#FF444A",
+      "description": "Encourage creativity and self-expression with this digital drawing tablet. It's a canvas for imagination, perfect for aspiring digital artists. Be a catalyst for artistic dreams. Donate this creative expression set and nurture the creativity of future talents.",
+      "price": 279,
+      "id": 10
+  },
+  {
+      "category": "Clothing",
+      "title": "Timeless Style Leather Jacket",
+      "img": "https://i.ibb.co/2STGp6T/Clothing-min.png",
+      "categoryBg": "#D4ECC1",
+      "cardBg": "#EBF6E2",
+      "color": "#79C23F",
+      "description": "Help someone achieve timeless style and comfort with this classic men's leather jacket. It's a versatile wardrobe staple, perfect for colder seasons. Be a fashion influencer. Donate this timeless style leather jacket and share the elegance and warmth of humanity.",
+      "price": 399,
+      "id": 11
+  },
+  {
+      "category": "Food",
+      "title": "Aromatic Coffee Sampler",
+      "img": "https://i.ibb.co/7jyBCJ0/Food-min.png",
+      "categoryBg": "#FDD2C4",
+      "cardBg": "#FEEAE3",
+      "color": "#F87147",
+      "description": "Awaken the senses with a delightful coffee journey. Support others in savoring the rich flavors of premium coffee beans from around the world. Be a coffee enthusiast's hero. Donate this aromatic coffee sampler and treat someone to the world's finest coffee experiences.",
+      "price": 249,
+      "id": 12
+  }
+]
